@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c/kinu2932/deadpan-forecast-01/rank.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c)
 [![reward](https://make.fun/badge/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c/kinu2932/deadpan-forecast-01/reward.svg)](https://make.fun/bounty/u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c?utm_source=github&utm_medium=readme&utm_campaign=u-coral-ibis-18-deadpan-forecasts-for-cities-that-do-151d4d8c)
 
-A deadpan one-line weather forecast for New Bumbershoot, a city that does not exist: 4 inches of uphill rain, apologetic fog at 30 mph, and an umbrella filing for divorce.
+A deadpan one-line weather forecast for New Bumbershoot, a city that does not exist: 4 inches of uphill rain, fog apologizing at 30 mph, and an umbrella leaving you for someone drier.
 
 ## Run it
 

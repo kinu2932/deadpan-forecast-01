@@ -10,8 +10,8 @@ import os
 
 FORECAST = (
     "In New Bumbershoot, expect 4 inches of uphill rain tonight, "
-    "gusts of apologetic fog at 30 mph, and a 90% chance your umbrella "
-    "files for divorce."
+    "fog apologizing at 30 mph, and a 90% chance your umbrella "
+    "leaves you for someone drier."
 )
 
 
